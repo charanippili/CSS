@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+
+}
+#image{
+width:400px;
+position:relative;
+left:80px;
+top:150px;
+border:5px solid gold;
+border-radius: 10px;
+}
+#p{
+    font-family: 'Bruno Ace SC', cursive;
+    color:gold;
+    font-size:40px;
+    font-weight: bold;
+ position:fixed;
+ left:550px;
+}
+#p1{
+    color:gold;
+    font-size: 50px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-style: italic;
+    position:relative;
+    top:120px;
+    left:200px;
+}
